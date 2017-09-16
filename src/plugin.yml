@@ -1,0 +1,11 @@
+name: Stacks
+main: fr.syst3ms.stacks.Stacks
+version: 1.0
+author: Syst3ms
+commands:
+  stacks:
+      description: Affiche vos stacks
+      usage: /stacks
+  sf:
+      description: spawns 64 cows to kill
+      usage: /sf
